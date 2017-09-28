@@ -1,0 +1,1 @@
+This program stops an unintended background process.
